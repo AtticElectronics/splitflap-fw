@@ -9,6 +9,8 @@
 2. 다음 부품들(아래 사진 참고)을 준비하여 함께 조립한다. 
 3. 이 저장소에 아두이노 라이브러리와 회로 제작파일(거버, BOM, Pick&Place)이 있다. 회로를 제작하여 예제폴더에 main을 ISP업로드해준다.
 
+![19](https://github.com/user-attachments/assets/042c8f40-31cf-4845-947a-56d1f3eb404b)
+![18](https://github.com/user-attachments/assets/e06d69c2-7e17-4adc-8fc9-3cda1ab0eaa7)
 
 
 ### 회로 핀 설명
