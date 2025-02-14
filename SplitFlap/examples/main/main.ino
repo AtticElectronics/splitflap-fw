@@ -101,8 +101,8 @@ void loop()
                 if (packet[0] == device_id)
                 {
                     // 자신의 ID와 일치하면
-                    // unit.rotateToIndex(packet[1]);
-                    unit.rotateTest(packet[1]);
+                    unit.rotateToIndex(packet[1]);
+                    //unit.rotateTest(packet[1]);
                 }
                 else
                 {
