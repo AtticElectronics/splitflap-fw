@@ -9,6 +9,12 @@
 2. 다음 부품들(아래 사진 참고)을 준비하여 함께 조립한다. 
 3. 이 저장소의 자료중 아두이노 라이브러리와 회로 제작파일(거버, BOM, Pick&Place)이 있다. 회로를 제작하여 예제폴더의 main.ino를 ISP업로드해준다.
 
+# 3D파일에 관하여
+
+* 파일은 bambustudio에서 열면 잘보입니다.
+* 멀티칼라 프린터로 출력했습니다.
+* 카드는 0.48T로 모델링되어있으며, 프린터의 출력옵션 중 적층높이는 0.16mm로 설정하여 출력하였습니다.
+
 ![19](https://github.com/user-attachments/assets/042c8f40-31cf-4845-947a-56d1f3eb404b)
 ![18](https://github.com/user-attachments/assets/e06d69c2-7e17-4adc-8fc9-3cda1ab0eaa7)
 
