@@ -82,7 +82,6 @@ void SplitFlapUnit::rotateToIndex(int index)
     digitalWrite(in2, LOW);
     digitalWrite(in3, LOW);
     digitalWrite(in4, LOW);
-    digitalWrite
 }
 // 강제 스텝이동
 void SplitFlapUnit::_rotateSteps(int steps)
